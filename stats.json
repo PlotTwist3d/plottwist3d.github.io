@@ -13,5 +13,123 @@
         "True": 0,
         "False":0,
         "Total":0
+    }, 
+    "ch1_trail_jones_bartender": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch1_ingrid_cat": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch1_drink":{
+        "water":0,
+        "whiskey":0,
+        "vodka":0,
+        "Total":0
+    },
+    "ch1_talk_logan_out_of_it": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch1_arrest_logan": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+
+    "ch2_mona_scene": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_mona_real_name": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_maintained_cover": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    }, 
+    "ch2_racer_outfit": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_mathilda_suave_point": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_recruited_fabian":{
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_disabled_comms": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_string_logan_along": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch2_dont_string_logan_along": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+
+    "ch3_asked_for_backup": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_ingrid_backup": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_shot_by_colt": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_jackals_chase_calm": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_roof_mona": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_roof_romance": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_colt_scene": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_mona_rejected": {
+        "True":0,
+        "False":0,
+        "Total":0
+    },
+    "ch3_roof_ingrid_would": {
+        "True": 0,
+        "False": 0,
+        "Total":0
     }
 }
