@@ -1,0 +1,17 @@
+{ 
+    "ch1_trail_mission_successful": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch1_ingrid_scene": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    },
+    "ch1_ingrid_truth": {
+        "True": 0,
+        "False":0,
+        "Total":0
+    }
+}
